@@ -1,0 +1,10 @@
+c:\users\marin\source\repos\jorgeantonio\jorgeantonio\bin\Debug\jorgeantonio.exe.config
+c:\users\marin\source\repos\jorgeantonio\jorgeantonio\bin\Debug\jorgeantonio.exe
+c:\users\marin\source\repos\jorgeantonio\jorgeantonio\bin\Debug\jorgeantonio.pdb
+c:\users\marin\source\repos\jorgeantonio\jorgeantonio\obj\Debug\jorgeantonio.csprojAssemblyReference.cache
+c:\users\marin\source\repos\jorgeantonio\jorgeantonio\obj\Debug\jorgeantonio.Properties.Resources.resources
+c:\users\marin\source\repos\jorgeantonio\jorgeantonio\obj\Debug\jorgeantonio.csproj.GenerateResource.cache
+c:\users\marin\source\repos\jorgeantonio\jorgeantonio\obj\Debug\jorgeantonio.csproj.CoreCompileInputs.cache
+c:\users\marin\source\repos\jorgeantonio\jorgeantonio\obj\Debug\jorgeantonio.exe
+c:\users\marin\source\repos\jorgeantonio\jorgeantonio\obj\Debug\jorgeantonio.pdb
+C:\Users\Marin\source\repos\jorgeantonio\jorgeantonio\obj\Debug\jorgeantonio.FormaReporte.resources
